@@ -63,7 +63,10 @@ body {
 
 p {
 	position: relative;
-	margin-top: 1em;
+	margin-top: 15px;
+	font-size: 15px;
+	font-weight: 400;
+	line-height: 25.5px;
 }
 
 code {
@@ -105,12 +108,17 @@ p del {
 	font-size: 15px;
 }
 
-p+ul {
+ul {
 	margin-left: 15%;
-	list-style: disc;
+	list-style-type: disc;
 	list-style-position: inside;
 	font-weight: 400;
 	font-size: 15px;
+	color: #343434;
+}
+
+ul li {
+	line-height: 25.5px;
 }
 
 
@@ -133,26 +141,30 @@ h1,h2,h3,h4 {
 
 h1 {
 	text-align: left;
-	font-size: 3em;
-	line-height: 1em;
+	font-size: 40px;
+	font-weight: 700;
+	line-height: 1.2em;
 	position: relative;
-	left: 33%;
 }
 
 h1+p { 
 	/*subtitle*/
-	font-style: italic;
-	font-size: 110%;
+	font-size: 22px;
+	line-height: 1.2em;
+	font-weight: 400;
+	margin-top: 7px;
 }
 
 h2 {
-	font-size: 2.2rem;
-	line-height: 1.5em;
-	border-bottom: 1px solid #eaecef;
+	font-size: 22px;
+	line-height: 33px;
+	border-bottom: 1px solid #d5d6d6;
+	box-sizing: border-box;
     font-weight: 700;
 	font-style: normal;
 	position: relative;
 	margin-bottom: 10px;
+	margin-top: 15px;
 }
 
 h3 {

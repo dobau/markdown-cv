@@ -15,7 +15,7 @@ Github <a href="https://github.com/dobau">dobau</a>
 
 ## Experience
 
-`2011-05`
+`2011-05 - present`
 __System Analist__
 _Sem Parar_
 ~~Responsibilities~~
@@ -24,20 +24,20 @@ _Sem Parar_
 + asdasd
 
 `2005-07 - 2011-05`
-### Developer
-__Atlântico__
-<b>Responsibilities:</b>
-* asdasd
-* asd
-* ads
+__Developer__
+_Atlântico_
+~~Responsibilities:~~
++ asdasd
++ asd
++ ads
 
 `2003-07 - 2005-07`
-### Developer
-__SoftExport__
-<b>Responsibilities:</b>
-* asdasd
-* asd
-* ads
+__Developer__
+_SoftExport_
+~~Responsibilities:~~
++ asdasd
++ asd
++ ads
 
 
 ## Education
@@ -53,4 +53,4 @@ __University of Fortaleza (UNIFOR)__
 
 ## Skills
 
-Java
+`Java`
